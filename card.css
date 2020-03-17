@@ -1,0 +1,67 @@
+.image{
+    background-image: url(hot.png);
+    background-size: 100% 100%;
+}
+.main_box{
+    background-color: white;
+    width: 300px;
+    height: 550px;
+    border-radius: 30px;
+margin: auto;
+}
+.top_box{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.mid_box{
+    background: black;
+    width: 100px;
+    height: 10px;
+    margin: 30px 0px 0px 100px;
+    border-radius: 20px;
+    float: left;
+   
+
+
+}
+.down_box{
+    text-align: center;
+
+}
+.NETFLIX{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1Opx;
+    color: white;
+    
+    
+}
+
+.job{
+    margin: 70px 20 px 100px 90px;
+    color: black;
+    
+}
+.location{
+    margin: 70px 20px 100px 90px;
+    color: black;
+    padding-right: 60px;
+    
+
+}
+
+.pic{
+    
+    margin: 30px 0px 0px 30px;
+    border-radius: 10px;
+
+    
+
+
+}
+.all{
+    background-image: url('hot.png');
+}
